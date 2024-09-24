@@ -2,7 +2,7 @@
 
 print (" ")
 
-print ("Andres Noe Gomez Garcia Multiplicacion de 3 numeros ")
+print ("Andres Noe Gomez Garcia Promedio ")
 
 print(" ")
 
@@ -26,7 +26,8 @@ print("El promedio de los 3 numeros es de: ", prom)
 
 print(" ")
 
-![image](https://github.com/user-attachments/assets/27e7d5c7-2e8e-4fb5-addb-06e31c57d8c6)
+![image](https://github.com/user-attachments/assets/94260dd2-3162-42e8-9125-348bb4bcf256)
 
-![image](https://github.com/user-attachments/assets/23a0a799-3b4e-4917-89ea-dedf10d3175e)
+![image](https://github.com/user-attachments/assets/f9fa709a-3f1f-4ff1-9a60-a2d116e89b3c)
+
 
